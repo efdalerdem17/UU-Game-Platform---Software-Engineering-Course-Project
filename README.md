@@ -7,7 +7,7 @@ University: Uppsala University
 Semester: Spring 2024
 
 
-🎯 Project Overview
+# 🎯 Project Overview
 This project demonstrates the application of software engineering principles including:
 
 Requirements Engineering
@@ -17,7 +17,7 @@ Project Management
 Quality Assurance
 Team Collaboration
 
-Deliverables
+# Deliverables
 
 D1: Team Contract and Project Setup
 D2: Requirements Specification
@@ -26,13 +26,13 @@ D4: Integration Plan
 D5: Project Implementation
 Final Report: Project Documentation and Reflection
 
-🔧 Technical Requirements
+# 🔧 Technical Requirements
 
 Python 3.10 or higher
 For Windows: windows-curses package
 For Linux/macOS: No additional packages required
 
-💻 Installation
+# 💻 Installation
 For Windows:
 
 Install Python 3.11 or lower (known issues with 3.12)
@@ -49,7 +49,7 @@ For Linux/macOS:
 bashCopygit clone [repo-url]
 cd uu-game
 python src/run.py
-🎮 Game Features
+# 🎮 Game Features
 The UU Game Platform includes:
 
 Two-player terminal-based board game
@@ -58,7 +58,7 @@ Multiple win conditions
 Mouse and keyboard controls
 AI opponent integration (optional)
 
-📚 Documentation
+# 📚 Documentation
 Project Structure
 Copyuu-game/
 ├── src/                 # Source code
@@ -70,7 +70,7 @@ Copyuu-game/
 │   └── D5/            # Implementation
 ├── tests/             # Test files
 └── README.md
-Development Process
+# Development Process
 
 Agile development using Scrum methodology
 Weekly sprints with regular meetings
@@ -78,7 +78,7 @@ Version control using Git
 Continuous integration practices
 Code review process
 
-📊 Project Management
+# 📊 Project Management
 Agile Practices
 
 Sprint planning meetings
@@ -86,14 +86,14 @@ Daily standups
 Sprint retrospectives
 Kanban board for task tracking
 
-Tools Used
+# Tools Used
 
 GitHub for version control
 Trello for project management
 Discord for team communication
 Google Drive for documentation
 
-📝 Course Deliverables
+# 📝 Course Deliverables
 D1: Team Contract
 
 Team organization
