@@ -1,6 +1,6 @@
 # UU Game Platform - Software Engineering Course Project
 This repository contains the UU Game Platform project, developed as part of the Software Engineering and Project Management course at Uppsala University. The project implements a terminal-based board game following software engineering best practices and agile development methodologies.
-📋 Course Information
+# 📋 Course Information
 
 Course: Software Engineering and Project Management
 University: Uppsala University
