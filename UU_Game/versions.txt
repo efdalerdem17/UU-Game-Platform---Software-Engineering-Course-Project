@@ -1,0 +1,42 @@
+/***********************************************************
+*                                                          *
+*    This document is meant to track changes in the        *	
+*    UU Game software. When entering adding a new update,  *
+*    the date, version and a text describing the update    *	
+*    is to be added to the top of the list.                *	
+*                                                          *
+*    The contents are meant to be a bit more detailed      *
+*    than the commits. This document is also only to       *
+*    be changed when a new version of the software is      *
+*    merged into dev.                                      *
+*                                                          *
+*    I.e:                                                  *
+*                                                          *
+*    Version: 0.0.1, Date: 2024-01-31                      * 
+*    Author: John Doe                                      *
+*                                                          *
+*    A GUI was added to the game. This allows the player   *
+*    to visualize the placements of the stones.            *
+*                                                          *			
+***********************************************************/
+
+
+/**********************************************************/
+
+Version: X.Y.Z, Date: YYYY-MM-DD
+Author: Name Surname
+
+Text
+
+/**********************************************************/
+
+
+/**********************************************************/
+
+Version: 0.0.1, Date: 2024-01-31
+Author: John Doe
+
+A GUI was added to the game. This allows the player   
+to visualize the placements of the stones.
+
+/**********************************************************/
